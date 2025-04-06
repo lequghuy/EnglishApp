@@ -1,10 +1,13 @@
-package com.example.englishapp;
+package com.example.englishapp.vocabulary;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.englishapp.R;
+
 import java.util.List;
 
 public class TopicAdapter extends RecyclerView.Adapter<TopicAdapter.TopicViewHolder> {
@@ -22,7 +25,7 @@ public class TopicAdapter extends RecyclerView.Adapter<TopicAdapter.TopicViewHol
 
     @Override
     public TopicViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_topic, parent, false);
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.huy_item_topic, parent, false);
         return new TopicViewHolder(view);
     }
 

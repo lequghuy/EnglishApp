@@ -1,28 +1,33 @@
-package com.example.englishapp;
+package com.example.englishapp.vocabulary;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.englishapp.DatabaseHelper;
+import com.example.englishapp.MainActivity;
+import com.example.englishapp.R;
+
 import java.util.List;
 
-public class QuizActivity extends AppCompatActivity {
+public class TopicQuizActivity extends AppCompatActivity {
     private TextView tvQuestion, tvProgress, tvResult;
     private Button btnAnswer1, btnAnswer2, btnAnswer3, btnAnswer4, btnBack;
     private DatabaseHelper dbHelper;
     private List<QuizQuestion> quizQuestions;
     private int currentQuestionIndex = 0;
     private int correctAnswers = 0;
-    private boolean isQuizFinished = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_quiz);
+        setContentView(R.layout.huy_activity_quiz);
 
         tvQuestion = findViewById(R.id.tv_question);
         tvProgress = findViewById(R.id.tv_progress);
@@ -33,12 +38,31 @@ public class QuizActivity extends AppCompatActivity {
         btnAnswer4 = findViewById(R.id.btn_answer4);
         btnBack = findViewById(R.id.btn_back);
 
-        dbHelper = new DatabaseHelper(this);
-        quizQuestions = dbHelper.getAllQuizQuestions();
+        if (tvQuestion == null || tvProgress == null || tvResult == null ||
+                btnAnswer1 == null || btnAnswer2 == null || btnAnswer3 == null || btnAnswer4 == null || btnBack == null) {
+            Log.e("TopicQuizActivity", "One or more views not found in activity_quiz.xml");
+            finish();
+            return;
+        }
 
-        if (quizQuestions.isEmpty()) {
-            tvQuestion.setText("Không có câu hỏi nào!");
+        dbHelper = new DatabaseHelper(this);
+        String topic = getIntent().getStringExtra("TOPIC");
+        if (topic == null) {
+            Log.e("TopicQuizActivity", "No topic received from intent");
+            tvQuestion.setText("Không nhận được chủ đề!");
             disableButtons();
+            btnBack.setVisibility(View.VISIBLE);
+            return;
+        }
+
+        quizQuestions = dbHelper.getQuizQuestionsByTopic(topic);
+        Log.d("TopicQuizActivity", "Topic: " + topic + ", Number of questions: " + (quizQuestions != null ? quizQuestions.size() : 0));
+
+        if (quizQuestions == null || quizQuestions.isEmpty()) {
+            Log.w("TopicQuizActivity", "No questions found for topic: " + topic);
+            tvQuestion.setText("Không có câu hỏi nào cho chủ đề " + topic + "!");
+            disableButtons();
+            btnBack.setVisibility(View.VISIBLE);
             return;
         }
 
@@ -49,7 +73,7 @@ public class QuizActivity extends AppCompatActivity {
         btnAnswer3.setOnClickListener(v -> checkAnswer(btnAnswer3));
         btnAnswer4.setOnClickListener(v -> checkAnswer(btnAnswer4));
         btnBack.setOnClickListener(v -> {
-            Intent intent = new Intent(QuizActivity.this, MainActivity.class);
+            Intent intent = new Intent(TopicQuizActivity.this, MainActivity.class);
             startActivity(intent);
             finish();
         });
@@ -67,6 +91,7 @@ public class QuizActivity extends AppCompatActivity {
             tvProgress.setText((currentQuestionIndex + 1) + "/" + quizQuestions.size());
             tvResult.setText("");
             enableButtons();
+            btnBack.setVisibility(View.VISIBLE);
         } else {
             showStats();
         }
@@ -86,17 +111,21 @@ public class QuizActivity extends AppCompatActivity {
         }
 
         currentQuestionIndex++;
-        // Sử dụng Handler với Looper để tránh deprecated API
         new Handler(Looper.getMainLooper()).postDelayed(this::showNextQuestion, 1000);
     }
 
     private void showStats() {
-        isQuizFinished = true;
-        setContentView(R.layout.activity_stats);
+        setContentView(R.layout.huy_activity_stats);
         TextView tvCorrect = findViewById(R.id.tv_correct);
         TextView tvWrong = findViewById(R.id.tv_wrong);
         TextView tvPercentage = findViewById(R.id.tv_percentage);
         btnBack = findViewById(R.id.btn_back);
+
+        if (tvCorrect == null || tvWrong == null || tvPercentage == null || btnBack == null) {
+            Log.e("TopicQuizActivity", "One or more views not found in activity_stats.xml");
+            finish();
+            return;
+        }
 
         int wrongAnswers = quizQuestions.size() - correctAnswers;
         double percentage = (double) correctAnswers / quizQuestions.size() * 100;
@@ -106,7 +135,7 @@ public class QuizActivity extends AppCompatActivity {
         tvPercentage.setText("Tỷ lệ đúng: " + String.format("%.1f%%", percentage));
 
         btnBack.setOnClickListener(v -> {
-            Intent intent = new Intent(QuizActivity.this, MainActivity.class);
+            Intent intent = new Intent(TopicQuizActivity.this, MainActivity.class);
             startActivity(intent);
             finish();
         });

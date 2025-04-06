@@ -1,4 +1,4 @@
-package com.example.englishapp;
+package com.example.englishapp.vocabulary;
 
 import java.util.ArrayList;
 import java.util.Collections;
