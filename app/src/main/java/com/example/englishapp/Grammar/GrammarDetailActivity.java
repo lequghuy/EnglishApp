@@ -105,8 +105,10 @@ public class GrammarDetailActivity extends AppCompatActivity {
             startActivity(intent);
         });
 
+
         btnBack.setOnClickListener(v -> {
             finish();
         });
     }
+
 }
