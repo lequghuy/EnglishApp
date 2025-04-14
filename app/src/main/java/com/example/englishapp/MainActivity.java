@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onClickQuiz(View view) {
-        Intent intent = new Intent(this, BaiKT.class);
+        Intent intent = new Intent(this, Duc_ChonDe.class);
         startActivity(intent);
     }
 }

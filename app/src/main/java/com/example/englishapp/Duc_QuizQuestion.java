@@ -1,11 +1,11 @@
 package com.example.englishapp;
 
-public class QuizQuestion {
+public class Duc_QuizQuestion {
     private String question;
     private String[] options;
     private int correctAnswerIndex;
 
-    public QuizQuestion(String question, String[] options, int correctAnswerIndex) {
+    public Duc_QuizQuestion(String question, String[] options, int correctAnswerIndex) {
         this.question = question;
         this.options = options;
         this.correctAnswerIndex = correctAnswerIndex;

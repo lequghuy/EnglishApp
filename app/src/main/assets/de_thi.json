@@ -1,0 +1,242 @@
+{
+  "Đề 1": {
+    "cauHoi": [
+      {
+        "noiDungCauHoi": "Hoang_____his email four times a week in order not to miss anything important.",
+        "luaChon_1": "checks",
+        "luaChon_2": "will check",
+        "luaChon_3": "is checking",
+        "luaChon_4": "check",
+        "dapAnDung": "will check"
+      },
+      {
+        "noiDungCauHoi": "After the physics lesson, the children know that water_____at 100 Degrees C.",
+        "luaChon_1": "will boil",
+        "luaChon_2": "is boiling",
+        "luaChon_3": "boils",
+        "luaChon_4": "boil",
+        "dapAnDung": "boil"
+      },
+      {
+        "noiDungCauHoi": "Bich sometimes_____chicken noodle soup for breakfast.",
+        "luaChon_1": "are having",
+        "luaChon_2": "is having",
+        "luaChon_3": "have",
+        "luaChon_4": "has",
+        "dapAnDung": "has"
+      },
+      {
+        "noiDungCauHoi": "Jenny often_____jeans and T-shirt at school but she_____a gorgeous dress today.",
+        "luaChon_1": "wears - is wearing",
+        "luaChon_2": "is wearing - wears",
+        "luaChon_3": "wear - is wearing",
+        "luaChon_4": "wears - wears",
+        "dapAnDung": "wears - wears"
+      },
+      {
+        "noiDungCauHoi": "I’m sorry. Lan is busy now. She_____her document on the second floor.",
+        "luaChon_1": "are checking",
+        "luaChon_2": "check",
+        "luaChon_3": "checks",
+        "luaChon_4": "is checking",
+        "dapAnDung": "is checking"
+      },
+      {
+        "noiDungCauHoi": "She_____for 10 hours! You must wake her up.",
+        "luaChon_1": "sleeps",
+        "luaChon_2": "is sleeping",
+        "luaChon_3": "has been sleeping",
+        "luaChon_4": "slept",
+        "dapAnDung": "slept"
+      }
+    ]
+  },
+  "Đề 2": {
+    "cauHoi": [
+      {
+        "noiDungCauHoi": "Nowadays, people_____social networks with more and more caution.",
+        "luaChon_1": "uses",
+        "luaChon_2": "are using",
+        "luaChon_3": "used",
+        "luaChon_4": "use",
+        "dapAnDung": "used"
+      },
+      {
+        "noiDungCauHoi": "Why_____?_____you his anecdotes?",
+        "luaChon_1": "are you laughing/has Jim told",
+        "luaChon_2": "are you laughing/has Jim been telling",
+        "luaChon_3": "have you laughed/ has Jim told",
+        "luaChon_4": "have you laughed/ has Jim been telling",
+        "dapAnDung": "have you laughed/ has Jim been telling"
+      }
+    ]
+  },
+  "Đề 3": {
+    "cauHoi": [
+      {
+        "noiDungCauHoi": "At the moment, my sister_____her homework, my brother_____games.",
+        "luaChon_1": "is making - is playing",
+        "luaChon_2": "is doing - is playing",
+        "luaChon_3": "does - plays",
+        "luaChon_4": "makes - is playing",
+        "dapAnDung": "is making - is playing"
+      },
+      {
+        "noiDungCauHoi": "Who_____the guitar in that room, Hoa?",
+        "luaChon_1": "playing",
+        "luaChon_2": "is playing",
+        "luaChon_3": "play",
+        "luaChon_4": "plays",
+        "dapAnDung": "plays"
+      },
+      {
+        "noiDungCauHoi": "David_____the TV set at the moment. He_____at it for one hour or so.",
+        "luaChon_1": "is repairing/ has worked",
+        "luaChon_2": "repairs/has been working",
+        "luaChon_3": "has repaired/has been working",
+        "luaChon_4": "repairs/worked",
+        "dapAnDung": "repairs/worked"
+      }
+    ]
+  },
+  "Đề 4": {
+    "cauHoi": [
+      {
+        "noiDungCauHoi": "It’s 7.00 p.m. now and we_____meal together. We usually_____dinner at that time.",
+        "luaChon_1": "have - eat",
+        "luaChon_2": "have - are eating",
+        "luaChon_3": "are having - eat",
+        "luaChon_4": "are having - are eating",
+        "dapAnDung": "are having - are eating"
+      }
+    ]
+  },
+  "Đề 5": {
+    "cauHoi": [
+      {
+        "noiDungCauHoi": "I_____a bike to school every day but today I_____to school by bus because it was stolen yesterday.",
+        "luaChon_1": "rode - went",
+        "luaChon_2": "ride - am going",
+        "luaChon_3": "ride - go",
+        "luaChon_4": "is riding - am going",
+        "dapAnDung": "ride - go"
+      },
+      {
+        "noiDungCauHoi": "Hurry up, Linh. Other friends_____for us.",
+        "luaChon_1": "are waiting",
+        "luaChon_2": "waits",
+        "luaChon_3": "wait",
+        "luaChon_4": "is waiting",
+        "dapAnDung": "is waiting"
+      },
+      {
+        "noiDungCauHoi": "My clothes are not in the room. They_____them away.",
+        "luaChon_1": "take",
+        "luaChon_2": "have taken",
+        "luaChon_3": "took",
+        "luaChon_4": "are taking",
+        "dapAnDung": "are taking"
+      }
+    ]
+  },
+  "Đề 6": {
+    "cauHoi": [
+      {
+        "noiDungCauHoi": "That Hoa_____in class affects other students around.",
+        "luaChon_1": "always talk",
+        "luaChon_2": "is always talking",
+        "luaChon_3": "always talks",
+        "luaChon_4": "always talking",
+        "dapAnDung": "always talking"
+      },
+      {
+        "noiDungCauHoi": "All staff in this restaurant_____an urgent meeting right now.",
+        "luaChon_1": "are attending",
+        "luaChon_2": "is attending",
+        "luaChon_3": "attends",
+        "luaChon_4": "attend",
+        "dapAnDung": "attend"
+      },
+      {
+        "noiDungCauHoi": "My mom_____to the supermarket every Sunday for shopping.",
+        "luaChon_1": "goes",
+        "luaChon_2": "go",
+        "luaChon_3": "is going",
+        "luaChon_4": "are going",
+        "dapAnDung": "are going"
+      },
+      {
+        "noiDungCauHoi": "Look! Minh_____on stage. She looks so beautiful.",
+        "luaChon_1": "sings",
+        "luaChon_2": "are singing",
+        "luaChon_3": "is singing",
+        "luaChon_4": "sang",
+        "dapAnDung": "sang"
+      }
+    ]
+  },
+  "Đề 7": {
+    "cauHoi": [
+      {
+        "noiDungCauHoi": "Hoang and Phong_____football as they’re having class now.",
+        "luaChon_1": "don’t play",
+        "luaChon_2": "are playing",
+        "luaChon_3": "doesn’t play",
+        "luaChon_4": "aren’t playing",
+        "dapAnDung": "aren’t playing"
+      }
+    ]
+  },
+  "Đề 8": {
+    "cauHoi": [
+      {
+        "noiDungCauHoi": "Hoa usually_____charge of doing the washing-up in her family.",
+        "luaChon_1": "takes",
+        "luaChon_2": "is taking",
+        "luaChon_3": "take",
+        "luaChon_4": "will take",
+        "dapAnDung": "will take"
+      },
+      {
+        "noiDungCauHoi": "First thing in the morning, I_____a cup of milk tea.",
+        "luaChon_1": "has",
+        "luaChon_2": "am having",
+        "luaChon_3": "have",
+        "luaChon_4": "will have",
+        "dapAnDung": "will have"
+      }
+    ]
+  },
+  "Đề 9": {
+    "cauHoi": [
+      {
+        "noiDungCauHoi": "Our friends_____for the fashion show now.",
+        "luaChon_1": "is preparing",
+        "luaChon_2": "are preparing",
+        "luaChon_3": "prepares",
+        "luaChon_4": "prepare",
+        "dapAnDung": "prepare"
+      },
+      {
+        "noiDungCauHoi": "Ms. Kim_____very well when she’s under pressure.",
+        "luaChon_1": "not work",
+        "luaChon_2": "don’t work",
+        "luaChon_3": "isn’t working",
+        "luaChon_4": "doesn’t work",
+        "dapAnDung": "doesn’t work"
+      }
+    ]
+  },
+  "Đề 10": {
+    "cauHoi": [
+      {
+        "noiDungCauHoi": "David_____his hands. He just_____the TV set.",
+        "luaChon_1": "washes/has just repaired",
+        "luaChon_2": "is washing/has just been repairing",
+        "luaChon_3": "is washing/ has just repaired",
+        "luaChon_4": "has washed/ has just repaired",
+        "dapAnDung": "has washed/ has just repaired"
+      }
+    ]
+  }
+}
