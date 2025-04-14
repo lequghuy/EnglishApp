@@ -10,8 +10,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.englishapp.R;
 
-import java.io.Serializable;
-
 public class GrammarDetailActivity extends AppCompatActivity {
     TextView txtTitle, txtContent;
     Button btnPractice, btnQuiz, btnBack;
@@ -19,7 +17,7 @@ public class GrammarDetailActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_grammar_detail);
+        setContentView(R.layout.phuonganh_activity_grammar_detail);
 
         txtTitle = findViewById(R.id.txtTopicTitle);
         txtContent = findViewById(R.id.txtTopicContent);

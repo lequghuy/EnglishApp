@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.phuonganh_activity_main);
 
         // Tìm CardView theo ID
         CardView cardGrammar = findViewById(R.id.card_grammar);

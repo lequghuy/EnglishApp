@@ -35,7 +35,7 @@ public class QuizActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_quiz);
+        setContentView(R.layout.phuonganh_activity_quiz);
 
         // Nhận chủ đề từ Intent
         String topic = getIntent().getStringExtra("topic");

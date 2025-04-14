@@ -2,15 +2,10 @@ package com.example.englishapp.Grammar;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
 import com.example.englishapp.MainActivity;
 import com.example.englishapp.R;
@@ -25,7 +20,7 @@ public class GrammarTopicsActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_grammar_topics);
+        setContentView(R.layout.phuonganh_activity_grammar_topics);
 
         Button btnBackToMain = findViewById(R.id.btnBackToMainFromTopic);
         btnBackToMain.setOnClickListener(v -> {
