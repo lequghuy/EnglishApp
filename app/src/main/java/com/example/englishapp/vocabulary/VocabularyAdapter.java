@@ -17,9 +17,11 @@ import java.util.Locale;
 public class VocabularyAdapter extends RecyclerView.Adapter<VocabularyAdapter.VocabularyViewHolder> {
     private List<Vocabulary> vocabularyList;
     private TextToSpeech textToSpeech;
+    private String topic;
 
-    public VocabularyAdapter(List<Vocabulary> vocabularyList, Context context) {
+    public VocabularyAdapter(List<Vocabulary> vocabularyList, Context context, String topic) {
         this.vocabularyList = (vocabularyList != null) ? new ArrayList<>(vocabularyList) : new ArrayList<>();
+        this.topic = topic != null ? topic : ""; // Đảm bảo topic không null
         textToSpeech = new TextToSpeech(context, status -> {
             if (status == TextToSpeech.SUCCESS) {
                 textToSpeech.setLanguage(Locale.US);
@@ -41,16 +43,33 @@ public class VocabularyAdapter extends RecyclerView.Adapter<VocabularyAdapter.Vo
             holder.tvTranscription.setText(vocab.getTranscription() != null ? vocab.getTranscription() : "");
             holder.tvMeaning.setText(vocab.getMeaning() != null ? vocab.getMeaning() : "");
 
+            // Tải hình ảnh
             if (vocab.getImage() != null) {
                 int resId = holder.itemView.getContext().getResources().getIdentifier(
                         vocab.getImage(), "drawable", holder.itemView.getContext().getPackageName());
                 if (resId != 0) {
-                    holder.ivImage.setImageResource(resId);
+                    holder.ivImage.setImageResource(resId); // Hình ảnh cụ thể của từ (như family_image)
+                } else {
+                    // Hình ảnh cụ thể không tồn tại, sử dụng hình ảnh của chủ đề
+                    String topicImageName = topic.toLowerCase() + "_topic_image"; // Ví dụ: family_topic_image
+                    int topicResId = holder.itemView.getContext().getResources().getIdentifier(
+                            topicImageName, "drawable", holder.itemView.getContext().getPackageName());
+                    if (topicResId != 0) {
+                        holder.ivImage.setImageResource(topicResId); // Hình ảnh của chủ đề
+                    } else {
+                        holder.ivImage.setImageResource(R.drawable.ic_vocabulary); // Fallback cuối cùng
+                    }
+                }
+            } else {
+                // Nếu không có hình ảnh cụ thể, sử dụng hình ảnh của chủ đề
+                String topicImageName = topic.toLowerCase() + "_topic_image";
+                int topicResId = holder.itemView.getContext().getResources().getIdentifier(
+                        topicImageName, "drawable", holder.itemView.getContext().getPackageName());
+                if (topicResId != 0) {
+                    holder.ivImage.setImageResource(topicResId);
                 } else {
                     holder.ivImage.setImageResource(R.drawable.ic_vocabulary);
                 }
-            } else {
-                holder.ivImage.setImageResource(R.drawable.ic_vocabulary);
             }
 
             holder.btnSpeak.setOnClickListener(v -> {
