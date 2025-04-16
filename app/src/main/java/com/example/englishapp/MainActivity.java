@@ -5,13 +5,14 @@ import android.os.Bundle;
 import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
-
+import com.example.englishapp.vocabulary.VocabularyActivity;
 import com.example.englishapp.Grammar.GrammarTopicsActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    CardView cardQuiz;
-    CardView cardGrammar;
+    private CardView cardQuiz;
+    private CardView cardGrammar;
+    private CardView cardVocabulary;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,27 +27,38 @@ public class MainActivity extends AppCompatActivity {
     private void addView() {
         cardQuiz = findViewById(R.id.card_quiz);
         cardGrammar = findViewById(R.id.card_grammar);
+        cardVocabulary = findViewById(R.id.card_vocabulary);
     }
 
     // Thiết lập sự kiện
     private void addEvents() {
-        cardQuiz.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
+        if (cardQuiz != null) {
+            cardQuiz.setOnClickListener(v -> {
                 Intent intent = new Intent(MainActivity.this, Duc_ChonDe.class);
                 startActivity(intent);
-            }
-        });
+            });
+        } else {
+            android.util.Log.e("MainActivity", "CardView card_quiz not found");
+        }
 
-        cardGrammar.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
+        if (cardGrammar != null) {
+            cardGrammar.setOnClickListener(v -> {
                 Intent intent = new Intent(MainActivity.this, GrammarTopicsActivity.class);
                 startActivity(intent);
-            }
-        });
-    }
+            });
+        } else {
+            android.util.Log.e("MainActivity", "CardView card_grammar not found");
+        }
 
+        if (cardVocabulary != null) {
+            cardVocabulary.setOnClickListener(v -> {
+                Intent intent = new Intent(MainActivity.this, VocabularyActivity.class);
+                startActivity(intent);
+            });
+        } else {
+            android.util.Log.e("MainActivity", "CardView card_vocabulary not found");
+        }
+    }
 
     public void onClickQuiz(View view) {
         Intent intent = new Intent(this, Duc_ChonDe.class);
