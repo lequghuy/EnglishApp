@@ -2,240 +2,1468 @@
   "Đề 1": {
     "cauHoi": [
       {
-        "noiDungCauHoi": "Hoang_____his email four times a week in order not to miss anything important.",
-        "luaChon_1": "checks",
-        "luaChon_2": "will check",
-        "luaChon_3": "is checking",
-        "luaChon_4": "check",
-        "dapAnDung": "will check"
+        "noiDungCauHoi": "He _________________ to the theatre tonight. He has got a free ticket.",
+        "luaChon_1": "goes",
+        "luaChon_2": "is going",
+        "luaChon_3": "went",
+        "luaChon_4": "will go",
+        "dapAnDung": "is going"
       },
       {
-        "noiDungCauHoi": "After the physics lesson, the children know that water_____at 100 Degrees C.",
-        "luaChon_1": "will boil",
-        "luaChon_2": "is boiling",
-        "luaChon_3": "boils",
-        "luaChon_4": "boil",
-        "dapAnDung": "boil"
+        "noiDungCauHoi": "Not a cloud in the sky. It __________________ another warm day.",
+        "luaChon_1": "may be",
+        "luaChon_2": "will be",
+        "luaChon_3": "is",
+        "luaChon_4": "is going to be",
+        "dapAnDung": "is going to be"
       },
       {
-        "noiDungCauHoi": "Bich sometimes_____chicken noodle soup for breakfast.",
-        "luaChon_1": "are having",
-        "luaChon_2": "is having",
-        "luaChon_3": "have",
-        "luaChon_4": "has",
-        "dapAnDung": "has"
+        "noiDungCauHoi": "What time ____ tomorrow?",
+        "luaChon_1": "are you going to leave",
+        "luaChon_2": "do you leave",
+        "luaChon_3": "will you leave",
+        "luaChon_4": "would you leave",
+        "dapAnDung": "will you leave"
       },
       {
-        "noiDungCauHoi": "Jenny often_____jeans and T-shirt at school but she_____a gorgeous dress today.",
-        "luaChon_1": "wears - is wearing",
-        "luaChon_2": "is wearing - wears",
-        "luaChon_3": "wear - is wearing",
-        "luaChon_4": "wears - wears",
-        "dapAnDung": "wears - wears"
+        "noiDungCauHoi": "Who ____ the next World Cup?",
+        "luaChon_1": "is going to win",
+        "luaChon_2": "is wining",
+        "luaChon_3": "will win",
+        "luaChon_4": "win",
+        "dapAnDung": "will win"
       },
       {
-        "noiDungCauHoi": "I’m sorry. Lan is busy now. She_____her document on the second floor.",
-        "luaChon_1": "are checking",
-        "luaChon_2": "check",
-        "luaChon_3": "checks",
-        "luaChon_4": "is checking",
-        "dapAnDung": "is checking"
+        "noiDungCauHoi": "The traffic is terrible. We __________________ our flight.",
+        "luaChon_1": "miss",
+        "luaChon_2": "will miss",
+        "luaChon_3": "are missing",
+        "luaChon_4": "are going to miss",
+        "dapAnDung": "are going to miss"
       },
       {
-        "noiDungCauHoi": "She_____for 10 hours! You must wake her up.",
-        "luaChon_1": "sleeps",
-        "luaChon_2": "is sleeping",
-        "luaChon_3": "has been sleeping",
-        "luaChon_4": "slept",
-        "dapAnDung": "slept"
+        "noiDungCauHoi": "A: Can you join us for a picnic tomorrow?",
+        "luaChon_1": "go",
+        "luaChon_2": "will go",
+        "luaChon_3": "am going",
+        "luaChon_4": "have gone",
+        "dapAnDung": "am going"
+      },
+      {
+        "noiDungCauHoi": "Next Saturday at this time, we __________________ on the beach in Mexico.",
+        "luaChon_1": "will relax",
+        "luaChon_2": "relax",
+        "luaChon_3": "will be relaxing",
+        "luaChon_4": "are going to relax",
+        "dapAnDung": "will be relaxing"
+      },
+      {
+        "noiDungCauHoi": "In six months’ time, she _________ from the university.",
+        "luaChon_1": "is going to graduate",
+        "luaChon_2": "will be graduating",
+        "luaChon_3": "will graduate",
+        "luaChon_4": "will have graduated",
+        "dapAnDung": "will have graduated"
+      },
+      {
+        "noiDungCauHoi": "If you need to reach us, we __________________ at the Fairmont Hotel that time.",
+        "luaChon_1": "have been staying",
+        "luaChon_2": "are staying",
+        "luaChon_3": "will be staying",
+        "luaChon_4": "had been staying",
+        "dapAnDung": "will be staying"
+      },
+      {
+        "noiDungCauHoi": "We __________________ you as soon as we arrive in Paris.",
+        "luaChon_1": "will call",
+        "luaChon_2": "call",
+        "luaChon_3": "have called",
+        "luaChon_4": "would call",
+        "dapAnDung": "will call"
+      },
+      {
+        "noiDungCauHoi": "You __________________ yourselves in the Caribbean, while we’re stuck here in New York with this cold weather.",
+        "luaChon_1": "are staying",
+        "luaChon_2": "will be enjoying",
+        "luaChon_3": "have been staying",
+        "luaChon_4": "had been staying",
+        "dapAnDung": "are staying"
+      },
+      {
+        "noiDungCauHoi": "Susan __________________ credit card payments until her debt is all paid off.",
+        "luaChon_1": "make",
+        "luaChon_2": "have made",
+        "luaChon_3": "are made",
+        "luaChon_4": "will make",
+        "dapAnDung": "will make"
+      },
+      {
+        "noiDungCauHoi": "The sky is very black. It __________________.",
+        "luaChon_1": "snows",
+        "luaChon_2": "is snowing",
+        "luaChon_3": "is going to snow",
+        "luaChon_4": "will snow",
+        "dapAnDung": "is going to snow"
+      },
+      {
+        "noiDungCauHoi": "But all these things __________________ if you marry me.",
+        "luaChon_1": "will happen only",
+        "luaChon_2": "will only happen",
+        "luaChon_3": "happen",
+        "luaChon_4": "are going to happen",
+        "dapAnDung": "will only happen"
+      },
+      {
+        "noiDungCauHoi": "I haven’t made up my mind yet. But I think I __________________ something nice in my mum’s wardrobe.",
+        "luaChon_1": "am going to",
+        "luaChon_2": "will find",
+        "luaChon_3": "am finding",
+        "luaChon_4": "was finding",
+        "dapAnDung": "will find"
+      },
+      {
+        "noiDungCauHoi": "My horoscope says that I __________________ an old friend this week.",
+        "luaChon_1": "meet",
+        "luaChon_2": "will meet",
+        "luaChon_3": "am meeting",
+        "luaChon_4": "meets",
+        "dapAnDung": "will meet"
+      },
+      {
+        "noiDungCauHoi": "By the end of next year, Geoge __________________ English for 2 years.",
+        "luaChon_1": "will deliver",
+        "luaChon_2": "am going to deliver",
+        "luaChon_3": "will be delivering",
+        "luaChon_4": "will have delivered",
+        "dapAnDung": "will have delivered"
+      },
+      {
+        "noiDungCauHoi": "- Can we start the party at 3 o’clock? - I don’t think so. All our guests__________________ by then. I’m afraid.",
+        "luaChon_1": "won’t have arrived",
+        "luaChon_2": "don’t arrive",
+        "luaChon_3": "haven’t arrived",
+        "luaChon_4": "didn’t arrive",
+        "dapAnDung": "won’t have arrived"
+      },
+      {
+        "noiDungCauHoi": "- What does a blonde say when she sees a banana skin lying just a few metres in front of her? - Oh dear! I __________________.",
+        "luaChon_1": "to slip",
+        "luaChon_2": "will slip",
+        "luaChon_3": "am sliping",
+        "luaChon_4": "am going to slip",
+        "dapAnDung": "am going to slip"
+      },
+      {
+        "noiDungCauHoi": "Here is the weather forecast. Tomorrow __________________ dry and sunny.",
+        "luaChon_1": "is going to be",
+        "luaChon_2": "will be",
+        "luaChon_3": "is",
+        "luaChon_4": "would be",
+        "dapAnDung": "is going to be"
       }
     ]
   },
   "Đề 2": {
     "cauHoi": [
       {
-        "noiDungCauHoi": "Nowadays, people_____social networks with more and more caution.",
-        "luaChon_1": "uses",
-        "luaChon_2": "are using",
-        "luaChon_3": "used",
-        "luaChon_4": "use",
-        "dapAnDung": "used"
+        "noiDungCauHoi": "I know by the time they come to my house this evening, I ________________ out for a walk.",
+        "luaChon_1": "will have gone",
+        "luaChon_2": "will go",
+        "luaChon_3": "will be going",
+        "luaChon_4": "shall go",
+        "dapAnDung": "will have gone"
       },
       {
-        "noiDungCauHoi": "Why_____?_____you his anecdotes?",
-        "luaChon_1": "are you laughing/has Jim told",
-        "luaChon_2": "are you laughing/has Jim been telling",
-        "luaChon_3": "have you laughed/ has Jim told",
-        "luaChon_4": "have you laughed/ has Jim been telling",
-        "dapAnDung": "have you laughed/ has Jim been telling"
+        "noiDungCauHoi": "These machines ________________ very well by the time you come back next month.",
+        "luaChon_1": "will be working",
+        "luaChon_2": "are going to work",
+        "luaChon_3": "will have worked",
+        "luaChon_4": "are working",
+        "dapAnDung": "will have worked"
+      },
+      {
+        "noiDungCauHoi": "I hope they _________________ building the road by the time we come back next summer.",
+        "luaChon_1": "are finishing",
+        "luaChon_2": "will be working",
+        "luaChon_3": "are going to work",
+        "luaChon_4": "will have finished",
+        "dapAnDung": "will have finished"
+      },
+      {
+        "noiDungCauHoi": "By 2020, the number of schools in our country __________________.",
+        "luaChon_1": "will double",
+        "luaChon_2": "will have doubled",
+        "luaChon_3": "are doubling",
+        "luaChon_4": "shall double",
+        "dapAnDung": "will have doubled"
+      },
+      {
+        "noiDungCauHoi": "They __________________ the classroom by the end of the hour.",
+        "luaChon_1": "are going to leave",
+        "luaChon_2": "will be leaving",
+        "luaChon_3": "will have left",
+        "luaChon_4": "are leaving",
+        "dapAnDung": "will have left"
+      },
+      {
+        "noiDungCauHoi": "They __________________ pingpong when their father comes back home.",
+        "luaChon_1": "will play",
+        "luaChon_2": "will be playing",
+        "luaChon_3": "play",
+        "luaChon_4": "would play",
+        "dapAnDung": "will be playing"
+      },
+      {
+        "noiDungCauHoi": "I’m going on holiday on Saturday.This time next week I __________ on a beach in the sea.",
+        "luaChon_1": "will lie",
+        "luaChon_2": "am lying",
+        "luaChon_3": "will be lying",
+        "luaChon_4": "should be lying",
+        "dapAnDung": "will be lying"
+      },
+      {
+        "noiDungCauHoi": "At 8 o’clock this evening my friends and I _____________ a famous film at the cinema.",
+        "luaChon_1": "were watching",
+        "luaChon_2": "will be watching",
+        "luaChon_3": "have been watching",
+        "luaChon_4": "watched",
+        "dapAnDung": "will be watching"
+      },
+      {
+        "noiDungCauHoi": "They ________________ their presentation at this time tomorrow morning.",
+        "luaChon_1": "are making",
+        "luaChon_2": "are going to make",
+        "luaChon_3": "will be making",
+        "luaChon_4": "will make",
+        "dapAnDung": "will be making"
+      },
+      {
+        "noiDungCauHoi": "She ________________ from the excursion by 6 o’clock.",
+        "luaChon_1": "will have returned",
+        "luaChon_2": "is going to return",
+        "luaChon_3": "is returning",
+        "luaChon_4": "will be returning",
+        "dapAnDung": "will have returned"
+      },
+      {
+        "noiDungCauHoi": "We _________ working for ten days when they pay our wages tomorrow.",
+        "luaChon_1": "were going to be",
+        "luaChon_2": "are going to",
+        "luaChon_3": "will be",
+        "luaChon_4": "will have been",
+        "dapAnDung": "will have been"
+      },
+      {
+        "noiDungCauHoi": "She __________________the movie before you bring the DVD.",
+        "luaChon_1": "is seeing",
+        "luaChon_2": "will be seeing",
+        "luaChon_3": "is going to see",
+        "luaChon_4": "will have seen",
+        "dapAnDung": "will have seen"
+      },
+      {
+        "noiDungCauHoi": "When you look through the small window, you _________ that the safe is in its usual place.",
+        "luaChon_1": "would discover",
+        "luaChon_2": "discovered",
+        "luaChon_3": "will be discovering",
+        "luaChon_4": "will discover",
+        "dapAnDung": "will discover"
+      },
+      {
+        "noiDungCauHoi": "Tell him I _________ anything with him until I have spoken with my wife.",
+        "luaChon_1": "won’t discuss",
+        "luaChon_2": "haven’t discussed",
+        "luaChon_3": "don’t discuss",
+        "luaChon_4": "didn’t discuss",
+        "dapAnDung": "won’t discuss"
+      },
+      {
+        "noiDungCauHoi": "When I finish this course, I _________ to the next level.",
+        "luaChon_1": "have gone",
+        "luaChon_2": "will go",
+        "luaChon_3": "went",
+        "luaChon_4": "would go",
+        "dapAnDung": "will go"
+      },
+      {
+        "noiDungCauHoi": "She is really worried that she _________ to the exam because she doesn’t have her identity card on her.",
+        "luaChon_1": "haven’t admitted",
+        "luaChon_2": "is not admittting",
+        "luaChon_3": "hadn’t been admitted",
+        "luaChon_4": "won’t be admitted",
+        "dapAnDung": "won’t be admitted"
+      },
+      {
+        "noiDungCauHoi": "That cat _________ you if you pull its tail.",
+        "luaChon_1": "scratches",
+        "luaChon_2": "has scratched",
+        "luaChon_3": "will scratch",
+        "luaChon_4": "is going to scratch",
+        "dapAnDung": "will scratch"
+      },
+      {
+        "noiDungCauHoi": "I ________________ Alex your letter when I see her tomorrow.",
+        "luaChon_1": "will send",
+        "luaChon_2": "am going to send",
+        "luaChon_3": "are sending",
+        "luaChon_4": "shall send",
+        "dapAnDung": "will send"
+      },
+      {
+        "noiDungCauHoi": "- What are your plans for the holiday? - I ________________ my grandparents and then go trekking in Sapa.",
+        "luaChon_1": "am going to visit",
+        "luaChon_2": "shall go",
+        "luaChon_3": "will go to visit",
+        "luaChon_4": "will go",
+        "dapAnDung": "am going to visit"
       }
     ]
   },
   "Đề 3": {
     "cauHoi": [
       {
-        "noiDungCauHoi": "At the moment, my sister_____her homework, my brother_____games.",
-        "luaChon_1": "is making - is playing",
-        "luaChon_2": "is doing - is playing",
-        "luaChon_3": "does - plays",
-        "luaChon_4": "makes - is playing",
-        "dapAnDung": "is making - is playing"
+        "noiDungCauHoi": "The manager ________________ the store before I arrived.",
+        "luaChon_1": "closed",
+        "luaChon_2": "had closed",
+        "luaChon_3": "has closed",
+        "luaChon_4": "was closed",
+        "dapAnDung": "had closed"
       },
       {
-        "noiDungCauHoi": "Who_____the guitar in that room, Hoa?",
-        "luaChon_1": "playing",
-        "luaChon_2": "is playing",
-        "luaChon_3": "play",
-        "luaChon_4": "plays",
-        "dapAnDung": "plays"
+        "noiDungCauHoi": "When we see Mr. Minh tomorrow, I ________________ him of that.",
+        "luaChon_1": "will remind",
+        "luaChon_2": "remind",
+        "luaChon_3": "have reminded",
+        "luaChon_4": "reminded",
+        "dapAnDung": "will remind"
       },
       {
-        "noiDungCauHoi": "David_____the TV set at the moment. He_____at it for one hour or so.",
-        "luaChon_1": "is repairing/ has worked",
-        "luaChon_2": "repairs/has been working",
-        "luaChon_3": "has repaired/has been working",
-        "luaChon_4": "repairs/worked",
-        "dapAnDung": "repairs/worked"
+        "noiDungCauHoi": "When I got home I found that water ________________ down the kitchen walls.",
+        "luaChon_1": "ran",
+        "luaChon_2": "was running",
+        "luaChon_3": "has run",
+        "luaChon_4": "had been running",
+        "dapAnDung": "had been running"
+      },
+      {
+        "noiDungCauHoi": "After he _____________ his English course, he went to England to continue his study.",
+        "luaChon_1": "has finish",
+        "luaChon_2": "had finished",
+        "luaChon_3": "was finished",
+        "luaChon_4": "would finish",
+        "dapAnDung": "had finished"
+      },
+      {
+        "noiDungCauHoi": "While my father ________________ a film on TV, my mother was cooking dinner.",
+        "luaChon_1": "watched",
+        "luaChon_2": "was watching",
+        "luaChon_3": "had watched",
+        "luaChon_4": "watches",
+        "dapAnDung": "was watching"
+      },
+      {
+        "noiDungCauHoi": "When I came to visit her last night, she ________________ a bath.",
+        "luaChon_1": "is having",
+        "luaChon_2": "was having",
+        "luaChon_3": "has had",
+        "luaChon_4": "had had",
+        "dapAnDung": "was having"
+      },
+      {
+        "noiDungCauHoi": "Tom ________________ before we arrive there.",
+        "luaChon_1": "has left",
+        "luaChon_2": "had left",
+        "luaChon_3": "will have left",
+        "luaChon_4": "leaves",
+        "dapAnDung": "will have left"
+      },
+      {
+        "noiDungCauHoi": "He _______________ his Chinese course before he went to China to continue his business.",
+        "luaChon_1": "will finish",
+        "luaChon_2": "has finished",
+        "luaChon_3": "had finished",
+        "luaChon_4": "will have finished",
+        "dapAnDung": "had finished"
+      },
+      {
+        "noiDungCauHoi": "Please send us a postcard as soon as you ________________ in London.",
+        "luaChon_1": "will arrive",
+        "luaChon_2": "is going to arrive",
+        "luaChon_3": "arrive",
+        "luaChon_4": "arrived",
+        "dapAnDung": "arrive"
+      },
+      {
+        "noiDungCauHoi": "I ______________ you this book when I meet you tomorrow.",
+        "luaChon_1": "give",
+        "luaChon_2": "will give",
+        "luaChon_3": "is giving",
+        "luaChon_4": "has given",
+        "dapAnDung": "will give"
+      },
+      {
+        "noiDungCauHoi": "We _______________ for going home when it began to rain.",
+        "luaChon_1": "were preparing",
+        "luaChon_2": "are preparing",
+        "luaChon_3": "will be preparing",
+        "luaChon_4": "have prepared",
+        "dapAnDung": "were preparing"
+      },
+      {
+        "noiDungCauHoi": "John _________________ in the same house since he left school.",
+        "luaChon_1": "lived",
+        "luaChon_2": "had lived",
+        "luaChon_3": "was living",
+        "luaChon_4": "has lived",
+        "dapAnDung": "has lived"
+      },
+      {
+        "noiDungCauHoi": "I had prepared dinner before I __________________ to work.",
+        "luaChon_1": "went",
+        "luaChon_2": "was going",
+        "luaChon_3": "had gone",
+        "luaChon_4": "is going",
+        "dapAnDung": "went"
+      },
+      {
+        "noiDungCauHoi": "When she came into the hall, she ________________ her arms to the audience, smiled and bowed deeply.",
+        "luaChon_1": "opened",
+        "luaChon_2": "had opened",
+        "luaChon_3": "was opening",
+        "luaChon_4": "is opening",
+        "dapAnDung": "opened"
+      },
+      {
+        "noiDungCauHoi": "I have never played badminton before. This is the first time I _____ to play it.",
+        "luaChon_1": "try",
+        "luaChon_2": "tried",
+        "luaChon_3": "have tried",
+        "luaChon_4": "am trying",
+        "dapAnDung": "have tried"
+      },
+      {
+        "noiDungCauHoi": "The car ___________________ ready for him by the time he comes tomorrow.",
+        "luaChon_1": "will be",
+        "luaChon_2": "will have been",
+        "luaChon_3": "will being",
+        "luaChon_4": "are going to be",
+        "dapAnDung": "will have been"
+      },
+      {
+        "noiDungCauHoi": "When I last saw him, he ________________ in London.",
+        "luaChon_1": "has lived",
+        "luaChon_2": "is living",
+        "luaChon_3": "was living",
+        "luaChon_4": "has been living",
+        "dapAnDung": "was living"
+      },
+      {
+        "noiDungCauHoi": "I will come and see you before I _________________ for the States.",
+        "luaChon_1": "leave",
+        "luaChon_2": "will leave",
+        "luaChon_3": "have left",
+        "luaChon_4": "shall leave",
+        "dapAnDung": "leave"
+      },
+      {
+        "noiDungCauHoi": "By the age of 25, he ________________ two famous novels.",
+        "luaChon_1": "wrote",
+        "luaChon_2": "writes",
+        "luaChon_3": "has written",
+        "luaChon_4": "had written",
+        "dapAnDung": "had written"
+      },
+      {
+        "noiDungCauHoi": "When her husband was in the army, Mary _________________ to him twice a week",
+        "luaChon_1": "was writing",
+        "luaChon_2": "wrote",
+        "luaChon_3": "was written",
+        "luaChon_4": "had written",
+        "dapAnDung": "wrote"
       }
     ]
   },
   "Đề 4": {
     "cauHoi": [
       {
-        "noiDungCauHoi": "It’s 7.00 p.m. now and we_____meal together. We usually_____dinner at that time.",
-        "luaChon_1": "have - eat",
-        "luaChon_2": "have - are eating",
-        "luaChon_3": "are having - eat",
-        "luaChon_4": "are having - are eating",
-        "dapAnDung": "are having - are eating"
+        "noiDungCauHoi": "I have never played football before. This is the first time I _____ playing.",
+        "luaChon_1": "try",
+        "luaChon_2": "tried",
+        "luaChon_3": "have tried",
+        "luaChon_4": "am trying",
+        "dapAnDung": "have tried"
+      },
+      {
+        "noiDungCauHoi": "Since Tom ________________, I have heard nothing from him.",
+        "luaChon_1": "had left",
+        "luaChon_2": "left",
+        "luaChon_3": "has left",
+        "luaChon_4": "was left",
+        "dapAnDung": "left"
+      },
+      {
+        "noiDungCauHoi": "After I _______________ lunch, I looked for my bag.",
+        "luaChon_1": "had",
+        "luaChon_2": "had had",
+        "luaChon_3": "will have had",
+        "luaChon_4": "have had",
+        "dapAnDung": "had had"
+      },
+      {
+        "noiDungCauHoi": "By the end of next year, George _________________ English for two years.",
+        "luaChon_1": "will have learned",
+        "luaChon_2": "will learn",
+        "luaChon_3": "has learned",
+        "luaChon_4": "would learn",
+        "dapAnDung": "will have learned"
+      },
+      {
+        "noiDungCauHoi": "These were the highest words of praise they _______________from the old man.",
+        "luaChon_1": "ever heard",
+        "luaChon_2": "have ever had",
+        "luaChon_3": "had ever had",
+        "luaChon_4": "will have ever heard",
+        "dapAnDung": "had ever had"
+      },
+      {
+        "noiDungCauHoi": "He will take the dog out for a walk as soon as he __________________ dinner.",
+        "luaChon_1": "finish",
+        "luaChon_2": "finishes",
+        "luaChon_3": "will finish",
+        "luaChon_4": "finishing",
+        "dapAnDung": "finishes"
+      },
+      {
+        "noiDungCauHoi": "He fell down when he ________________ towards the church.",
+        "luaChon_1": "run",
+        "luaChon_2": "runs",
+        "luaChon_3": "was running",
+        "luaChon_4": "had run",
+        "dapAnDung": "was running"
+      },
+      {
+        "noiDungCauHoi": "Within a week she knew the fearful mistake she _______________.",
+        "luaChon_1": "made",
+        "luaChon_2": "has made",
+        "luaChon_3": "had made",
+        "luaChon_4": "was making",
+        "dapAnDung": "had made"
+      },
+      {
+        "noiDungCauHoi": "They _______________ table tennis when their father comes back home.",
+        "luaChon_1": "will play",
+        "luaChon_2": "will be playing",
+        "luaChon_3": "play",
+        "luaChon_4": "would play",
+        "dapAnDung": "will be playing"
+      },
+      {
+        "noiDungCauHoi": "Before she went to bed, she ________________ her homework already.",
+        "luaChon_1": "finished",
+        "luaChon_2": "is finishing",
+        "luaChon_3": "had finished",
+        "luaChon_4": "was finishing",
+        "dapAnDung": "had finished"
+      },
+      {
+        "noiDungCauHoi": "They are staying at the hotel in London. At this time tomorrow, they _____ in Vietnam.",
+        "luaChon_1": "will have travelled",
+        "luaChon_2": "will travel",
+        "luaChon_3": "will be travelling",
+        "luaChon_4": "will be travelled",
+        "dapAnDung": "will be travelling"
+      },
+      {
+        "noiDungCauHoi": "There ____________ something vaguely familiar about her face but I couldn’t remember where I ___________ her before.",
+        "luaChon_1": "is/have met",
+        "luaChon_2": "was/had met",
+        "luaChon_3": "will see/meet",
+        "luaChon_4": "was/met",
+        "dapAnDung": "was/had met"
+      },
+      {
+        "noiDungCauHoi": "Another million people ________________unemployed by the time next year.",
+        "luaChon_1": "will have become",
+        "luaChon_2": "will become",
+        "luaChon_3": "will be become",
+        "luaChon_4": "will be becoming",
+        "dapAnDung": "will have become"
+      },
+      {
+        "noiDungCauHoi": "She told me that her family _________ long in that town.",
+        "luaChon_1": "has lived",
+        "luaChon_2": "had lived",
+        "luaChon_3": "lived",
+        "luaChon_4": "was living",
+        "dapAnDung": "had lived"
+      },
+      {
+        "noiDungCauHoi": "By the time he _________________ out of jail, he will have forgotten how to function in the real world.",
+        "luaChon_1": "got",
+        "luaChon_2": "will get",
+        "luaChon_3": "gets",
+        "luaChon_4": "is getting",
+        "dapAnDung": "gets"
+      },
+      {
+        "noiDungCauHoi": "Once tested for viruses, the software can be installed in the school computer system for the use.",
+        "luaChon_1": "tested",
+        "luaChon_2": "the",
+        "luaChon_3": "can be installed",
+        "luaChon_4": "for the use.",
+        "dapAnDung": "for the use."
+      },
+      {
+        "noiDungCauHoi": "It was only birthday he had celebrated since he was a child.",
+        "luaChon_1": "only",
+        "luaChon_2": "had celebrated",
+        "luaChon_3": "was",
+        "luaChon_4": "a",
+        "dapAnDung": "only"
+      },
+      {
+        "noiDungCauHoi": "Nowadays, everybody knows Apples and almost everybody knows that a company was founded by Steve Jobs, an American inventor and entrepreneur.",
+        "luaChon_1": "knows",
+        "luaChon_2": "almost",
+        "luaChon_3": "a",
+        "luaChon_4": "founded",
+        "dapAnDung": "a"
+      },
+      {
+        "noiDungCauHoi": "The teacher entered the room while the students were discussing their plan for an excursion.",
+        "luaChon_1": "entered",
+        "luaChon_2": "while",
+        "luaChon_3": "were discussing",
+        "luaChon_4": "an",
+        "dapAnDung": "an"
+      },
+      {
+        "noiDungCauHoi": "Of all papers I read this morning, none interested me as much as this one.",
+        "luaChon_1": "Of all papers",
+        "luaChon_2": "read",
+        "luaChon_3": "none",
+        "luaChon_4": "as much as",
+        "dapAnDung": "Of all papers"
       }
     ]
   },
   "Đề 5": {
     "cauHoi": [
       {
-        "noiDungCauHoi": "I_____a bike to school every day but today I_____to school by bus because it was stolen yesterday.",
-        "luaChon_1": "rode - went",
-        "luaChon_2": "ride - am going",
-        "luaChon_3": "ride - go",
-        "luaChon_4": "is riding - am going",
-        "dapAnDung": "ride - go"
+        "noiDungCauHoi": "Steve Jobs died in 2011 after battling with the pancreatic cancer for nearly a decade.",
+        "luaChon_1": "died",
+        "luaChon_2": "battling with",
+        "luaChon_3": "the",
+        "luaChon_4": "for",
+        "dapAnDung": "the"
       },
       {
-        "noiDungCauHoi": "Hurry up, Linh. Other friends_____for us.",
-        "luaChon_1": "are waiting",
-        "luaChon_2": "waits",
-        "luaChon_3": "wait",
-        "luaChon_4": "is waiting",
-        "dapAnDung": "is waiting"
+        "noiDungCauHoi": "He left on the 10 o’clock train yesterday to see his father who was taken to the hospital last week when he broke his right leg.",
+        "luaChon_1": "left on",
+        "luaChon_2": "to see",
+        "luaChon_3": "the hospital",
+        "luaChon_4": "broke",
+        "dapAnDung": "the hospital"
       },
       {
-        "noiDungCauHoi": "My clothes are not in the room. They_____them away.",
-        "luaChon_1": "take",
-        "luaChon_2": "have taken",
-        "luaChon_3": "took",
-        "luaChon_4": "are taking",
-        "dapAnDung": "are taking"
+        "noiDungCauHoi": "I have bought _______ new shirt which matches _________ jacket I bought last week.",
+        "luaChon_1": "some/a",
+        "luaChon_2": "the/a",
+        "luaChon_3": "a/the",
+        "luaChon_4": "some/the",
+        "dapAnDung": "a/the"
+      },
+      {
+        "noiDungCauHoi": "Could you lend me some more? I’ve spent _____ money you gave me yesterday.",
+        "luaChon_1": "Ø",
+        "luaChon_2": "the",
+        "luaChon_3": "a",
+        "luaChon_4": "an",
+        "dapAnDung": "the"
+      },
+      {
+        "noiDungCauHoi": "The principal river in Wales is ______ Severn, which flows from the slopes of Plynlimon to _________ English border.",
+        "luaChon_1": "Ø / Ø",
+        "luaChon_2": "the/the",
+        "luaChon_3": "a/the",
+        "luaChon_4": "the/a",
+        "dapAnDung": "the/the"
+      },
+      {
+        "noiDungCauHoi": "Until recently _____ economy of _____ southern United States was based on _____ cotton.",
+        "luaChon_1": "an/the/ Ø",
+        "luaChon_2": "the/ Ø / Ø",
+        "luaChon_3": "the/the/the",
+        "luaChon_4": "the/the/ Ø",
+        "dapAnDung": "the/the/ Ø"
+      },
+      {
+        "noiDungCauHoi": "I still keep wondering if I was doing ______ right thing when I asked my father for __________ permission to leave school.",
+        "luaChon_1": "a/ Ø",
+        "luaChon_2": "the/ Ø",
+        "luaChon_3": "Ø",
+        "luaChon_4": "Ø/a",
+        "dapAnDung": "the/ Ø"
+      },
+      {
+        "noiDungCauHoi": "We needed ________ house to live in when we were in London.",
+        "luaChon_1": "a",
+        "luaChon_2": "the",
+        "luaChon_3": "any",
+        "luaChon_4": "Ø",
+        "dapAnDung": "a"
+      },
+      {
+        "noiDungCauHoi": "You are ________ only person whose opinion is of any value to me in _____ present regrettable circumstances.",
+        "luaChon_1": "the/Ø",
+        "luaChon_2": "the/the",
+        "luaChon_3": "the/a",
+        "luaChon_4": "Ø/the",
+        "dapAnDung": "the/the"
+      },
+      {
+        "noiDungCauHoi": "The boy told me he hated ______ doctors.",
+        "luaChon_1": "the",
+        "luaChon_2": "some",
+        "luaChon_3": "Ø",
+        "luaChon_4": "a",
+        "dapAnDung": "Ø"
+      },
+      {
+        "noiDungCauHoi": "He had __________ laughing eyes and ____ most charming mouth.",
+        "luaChon_1": "the/the",
+        "luaChon_2": "a/a",
+        "luaChon_3": "Ø/a",
+        "luaChon_4": "Ø/the",
+        "dapAnDung": "Ø/a"
+      },
+      {
+        "noiDungCauHoi": "My brother hopes to travel around the world _____ next summer.",
+        "luaChon_1": "a",
+        "luaChon_2": "an",
+        "luaChon_3": "the",
+        "luaChon_4": "Ø (no article)",
+        "dapAnDung": "Ø (no article)"
+      },
+      {
+        "noiDungCauHoi": "Richard Byrd was ____ first person in history to fly over ____ North Pole.",
+        "luaChon_1": "the – a",
+        "luaChon_2": "the – Ø",
+        "luaChon_3": "the – the",
+        "luaChon_4": "Ø – Ø",
+        "dapAnDung": "the – the"
+      },
+      {
+        "noiDungCauHoi": "In most _______ developed countries, up to 50% of _______ population enters higher education at some time in their lives.",
+        "luaChon_1": "the / Ø",
+        "luaChon_2": "Ø / Ø",
+        "luaChon_3": "the / the",
+        "luaChon_4": "Ø / the",
+        "dapAnDung": "Ø / the"
+      },
+      {
+        "noiDungCauHoi": "Reports are coming in of a major oil spill in ______ Mediterranean.",
+        "luaChon_1": "an",
+        "luaChon_2": "Ø",
+        "luaChon_3": "the",
+        "luaChon_4": "a",
+        "dapAnDung": "the"
+      },
+      {
+        "noiDungCauHoi": "______ non-verbal language is _______ important aspect of interpersonal communication.",
+        "luaChon_1": "The – a",
+        "luaChon_2": "Ø – an",
+        "luaChon_3": "",
+        "luaChon_4": "The - Ø",
+        "dapAnDung": "Ø – an"
+      },
+      {
+        "noiDungCauHoi": "Is it acceptable to touch ______ person on _______ shoulder in a conversation?",
+        "luaChon_1": "a – the",
+        "luaChon_2": "the – a",
+        "luaChon_3": "the – the",
+        "luaChon_4": "a - a",
+        "dapAnDung": "a – the"
+      },
+      {
+        "noiDungCauHoi": "The excursion is ______ unique opportunity to discover _______ wild in its natural beauty.",
+        "luaChon_1": "an – Ø",
+        "luaChon_2": "a – the",
+        "luaChon_3": "the – the",
+        "luaChon_4": "an – the",
+        "dapAnDung": "a – the"
+      },
+      {
+        "noiDungCauHoi": "______ colleges and universities are the main institutions that provide _____ tertiary education.",
+        "luaChon_1": "Ø – Ø",
+        "luaChon_2": "The – Ø",
+        "luaChon_3": "The – the",
+        "luaChon_4": "Ø - the",
+        "dapAnDung": "Ø – Ø"
+      },
+      {
+        "noiDungCauHoi": "I have left my book in _______ kitchen and I would like you to get it for me.",
+        "luaChon_1": "the",
+        "luaChon_2": "a",
+        "luaChon_3": "Ø",
+        "luaChon_4": "an",
+        "dapAnDung": "the"
       }
     ]
   },
   "Đề 6": {
     "cauHoi": [
       {
-        "noiDungCauHoi": "That Hoa_____in class affects other students around.",
-        "luaChon_1": "always talk",
-        "luaChon_2": "is always talking",
-        "luaChon_3": "always talks",
-        "luaChon_4": "always talking",
-        "dapAnDung": "always talking"
+        "noiDungCauHoi": "Of all the world’s major oceans, ________ Arctic Ocean is the shallowest.",
+        "luaChon_1": "an",
+        "luaChon_2": "the",
+        "luaChon_3": "a",
+        "luaChon_4": "Ø",
+        "dapAnDung": "the"
       },
       {
-        "noiDungCauHoi": "All staff in this restaurant_____an urgent meeting right now.",
-        "luaChon_1": "are attending",
-        "luaChon_2": "is attending",
-        "luaChon_3": "attends",
-        "luaChon_4": "attend",
-        "dapAnDung": "attend"
+        "noiDungCauHoi": "My uncle’s company made a very good profit in _______________1990s.",
+        "luaChon_1": "the",
+        "luaChon_2": 0,
+        "luaChon_3": "a",
+        "luaChon_4": "an",
+        "dapAnDung": "the"
       },
       {
-        "noiDungCauHoi": "My mom_____to the supermarket every Sunday for shopping.",
-        "luaChon_1": "goes",
-        "luaChon_2": "go",
-        "luaChon_3": "is going",
-        "luaChon_4": "are going",
-        "dapAnDung": "are going"
+        "noiDungCauHoi": "Park Hang-seo, who is the head coach of _______ Vietnam national football team, is a new idol of many people.",
+        "luaChon_1": "Ø",
+        "luaChon_2": "a",
+        "luaChon_3": "the",
+        "luaChon_4": "an",
+        "dapAnDung": "the"
       },
       {
-        "noiDungCauHoi": "Look! Minh_____on stage. She looks so beautiful.",
-        "luaChon_1": "sings",
-        "luaChon_2": "are singing",
-        "luaChon_3": "is singing",
-        "luaChon_4": "sang",
-        "dapAnDung": "sang"
+        "noiDungCauHoi": "Africa has always had a large migratory population because of war and _____ famine.",
+        "luaChon_1": "a",
+        "luaChon_2": "an",
+        "luaChon_3": "the",
+        "luaChon_4": "Ø",
+        "dapAnDung": "Ø"
+      },
+      {
+        "noiDungCauHoi": "My neighbor is _______ photographer. Let’s ask him for _______ advice about color film.",
+        "luaChon_1": "a – the",
+        "luaChon_2": "the – an",
+        "luaChon_3": "a – Ø",
+        "luaChon_4": "the – the",
+        "dapAnDung": "a – Ø"
+      },
+      {
+        "noiDungCauHoi": "The man grew up in ________ orphanage in ________ United Kingdom.",
+        "luaChon_1": "the/ an",
+        "luaChon_2": "an/ the",
+        "luaChon_3": "an/ an",
+        "luaChon_4": "the/ Ø",
+        "dapAnDung": "an/ the"
+      },
+      {
+        "noiDungCauHoi": "Housewives find it easier to do domestic chores thanks to _______ invention of labour-saving devices.",
+        "luaChon_1": "an",
+        "luaChon_2": "some",
+        "luaChon_3": "the",
+        "luaChon_4": "a",
+        "dapAnDung": "the"
+      },
+      {
+        "noiDungCauHoi": "Apparently, ______ science, mathematics, and technology are defined as much by what they do and how they do it as they are by _____ results they achieve.",
+        "luaChon_1": "the / the",
+        "luaChon_2": "Ø / the",
+        "luaChon_3": "Ø / Ø",
+        "luaChon_4": "the / Ø",
+        "dapAnDung": "Ø / the"
+      },
+      {
+        "noiDungCauHoi": "More and more investors are pouring _______ money into food and beverage start-ups.",
+        "luaChon_1": "the",
+        "luaChon_2": "a",
+        "luaChon_3": "an",
+        "luaChon_4": "Ø",
+        "dapAnDung": "Ø"
+      },
+      {
+        "noiDungCauHoi": "I won’t be home for _______ dinner this evening. I’m meeting some friends after _______ work and we’re going to _______ cinema.",
+        "luaChon_1": "Ø /the/Ø",
+        "luaChon_2": "The/ Ø /Ø",
+        "luaChon_3": "Ø / Ø /the",
+        "luaChon_4": "Ø /the/the",
+        "dapAnDung": "Ø / Ø /the"
+      },
+      {
+        "noiDungCauHoi": "“Did you have ______ nice holiday?” – “Yes, it was ______ best holiday I have ever had.”",
+        "luaChon_1": "a – the",
+        "luaChon_2": "the – the",
+        "luaChon_3": "the – a",
+        "luaChon_4": "a – a",
+        "dapAnDung": "a – the"
+      },
+      {
+        "noiDungCauHoi": "A worrying conclusion in the study called “Heat and Learning” is that _______ global warming may affect the future income of _______ students around the world.",
+        "luaChon_1": "the/ the",
+        "luaChon_2": "Ø/ the",
+        "luaChon_3": "a/ many",
+        "luaChon_4": "Ø/ Ø",
+        "dapAnDung": "Ø/ Ø"
+      },
+      {
+        "noiDungCauHoi": "The escaping prisoner camped in _______ woods but he didn’t light _______ fire because _______ smoke rising from the wood might attract _______ attention.",
+        "luaChon_1": "the/a/ Ø /Ø",
+        "luaChon_2": "a/the/the/Ø",
+        "luaChon_3": "the/a/ Ø/the",
+        "luaChon_4": "a/a/ Ø / Ø",
+        "dapAnDung": "the/a/ Ø /Ø"
+      },
+      {
+        "noiDungCauHoi": "My brother has been playing ______ piano since he was a small child.",
+        "luaChon_1": "the",
+        "luaChon_2": "a",
+        "luaChon_3": "no article",
+        "luaChon_4": "an",
+        "dapAnDung": "the"
+      },
+      {
+        "noiDungCauHoi": "Donald Trump is _______ president of _______ United States.",
+        "luaChon_1": "the/the",
+        "luaChon_2": "a/Ø",
+        "luaChon_3": "the/an",
+        "luaChon_4": "the/Ø",
+        "dapAnDung": "the/the"
+      },
+      {
+        "noiDungCauHoi": "Our planned visit to ______ United Kingdom fell through because we were unable to get the visas.",
+        "luaChon_1": "a",
+        "luaChon_2": "an",
+        "luaChon_3": "the",
+        "luaChon_4": "no article",
+        "dapAnDung": "the"
+      },
+      {
+        "noiDungCauHoi": "According to ______ National Weather Service, _____ cyclones are _____ areas of circulating winds that rotate counterclockwise in ________ Northern Hemisphere and clockwise in ______ Southern Hemisphere",
+        "luaChon_1": "ø/ø/the/the/the",
+        "luaChon_2": "the/ø/ø/the/the",
+        "luaChon_3": "the/ø/the/ø/ø",
+        "luaChon_4": "the/ø/ø/an/the",
+        "dapAnDung": "the/ø/ø/the/the"
+      },
+      {
+        "noiDungCauHoi": "Bodies of ______ dead in the tragic accident yesterday were taken away.",
+        "luaChon_1": "the",
+        "luaChon_2": "a",
+        "luaChon_3": "an",
+        "luaChon_4": "Ø",
+        "dapAnDung": "the"
+      },
+      {
+        "noiDungCauHoi": "_____ Socialist Republic of Vietnam is a country with a great patriotism through its history.",
+        "luaChon_1": "The",
+        "luaChon_2": "",
+        "luaChon_3": "",
+        "luaChon_4": "Ø",
+        "dapAnDung": "The"
+      },
+      {
+        "noiDungCauHoi": "My parents hope to travel around ______ world next summer.",
+        "luaChon_1": "a",
+        "luaChon_2": "an",
+        "luaChon_3": "the",
+        "luaChon_4": "Ø",
+        "dapAnDung": "the"
       }
     ]
   },
   "Đề 7": {
     "cauHoi": [
       {
-        "noiDungCauHoi": "Hoang and Phong_____football as they’re having class now.",
-        "luaChon_1": "don’t play",
-        "luaChon_2": "are playing",
-        "luaChon_3": "doesn’t play",
-        "luaChon_4": "aren’t playing",
-        "dapAnDung": "aren’t playing"
+        "noiDungCauHoi": "A recent survey has shown that ______ increasing number of men are willing to share the housework with their wives.",
+        "luaChon_1": "a",
+        "luaChon_2": "an",
+        "luaChon_3": "the",
+        "luaChon_4": "some",
+        "dapAnDung": "an"
+      },
+      {
+        "noiDungCauHoi": "First our team should identify __________ specific need in the community and then carry out a project to address that need.",
+        "luaChon_1": "an",
+        "luaChon_2": "Ø",
+        "luaChon_3": "a",
+        "luaChon_4": "the",
+        "dapAnDung": "a"
+      },
+      {
+        "noiDungCauHoi": "Domestic appliances like washing machines and dishwashers have made ______ life much easier.",
+        "luaChon_1": "the",
+        "luaChon_2": "a",
+        "luaChon_3": "Ø",
+        "luaChon_4": "",
+        "dapAnDung": "Ø"
+      },
+      {
+        "noiDungCauHoi": "We moved to the countryside because we wanted to be close to _____ nature.",
+        "luaChon_1": "a",
+        "luaChon_2": "the",
+        "luaChon_3": "an",
+        "luaChon_4": "Ø",
+        "dapAnDung": "Ø"
+      },
+      {
+        "noiDungCauHoi": "She was drinking ____________ glass of orange juice.",
+        "luaChon_1": "a",
+        "luaChon_2": "the",
+        "luaChon_3": "Ø",
+        "luaChon_4": "an",
+        "dapAnDung": "a"
+      },
+      {
+        "noiDungCauHoi": "Mrs Florida felt that her marriage had become __________ prison.",
+        "luaChon_1": "a",
+        "luaChon_2": "the",
+        "luaChon_3": "Ø",
+        "luaChon_4": "an",
+        "dapAnDung": "a"
+      },
+      {
+        "noiDungCauHoi": "Laura is _____________ most intelligent girl I’ve ever known",
+        "luaChon_1": "an",
+        "luaChon_2": "Ø",
+        "luaChon_3": "a",
+        "luaChon_4": "the",
+        "dapAnDung": "the"
+      },
+      {
+        "noiDungCauHoi": "_____ residents of the village are living a happy life although they lack _____ modern facilities.",
+        "luaChon_1": "Ø/ Ø",
+        "luaChon_2": "Ø/the",
+        "luaChon_3": "the/the",
+        "luaChon_4": "the/Ø",
+        "dapAnDung": "the/Ø"
+      },
+      {
+        "noiDungCauHoi": "Tom sat down on _______ edge of a log and looked at ______ glassy surface of the lake.",
+        "luaChon_1": "a/a",
+        "luaChon_2": "the/the",
+        "luaChon_3": "Ø/the",
+        "luaChon_4": "the/ Ø",
+        "dapAnDung": "the/the"
+      },
+      {
+        "noiDungCauHoi": "________ deposit of 5 pounds is payable by anyone who wishes to become ________ reader of the library.",
+        "luaChon_1": "A/a",
+        "luaChon_2": "The/the",
+        "luaChon_3": "The/ Ø",
+        "luaChon_4": "The/a",
+        "dapAnDung": "A/a"
+      },
+      {
+        "noiDungCauHoi": "Neither I nor you are qualified for that job, ______?",
+        "luaChon_1": "are we",
+        "luaChon_2": "aren’t we",
+        "luaChon_3": "do we",
+        "luaChon_4": "do I",
+        "dapAnDung": "are we"
+      },
+      {
+        "noiDungCauHoi": "She needs to feed the chicken in the morning, _______?",
+        "luaChon_1": "doesn’t she",
+        "luaChon_2": "does she",
+        "luaChon_3": "needn’t she",
+        "luaChon_4": "need she",
+        "dapAnDung": "doesn’t she"
+      },
+      {
+        "noiDungCauHoi": "He needn’t do that for me, _______?",
+        "luaChon_1": "need he",
+        "luaChon_2": "needn’t he",
+        "luaChon_3": "does he",
+        "luaChon_4": "doesn’t he",
+        "dapAnDung": "need he"
+      },
+      {
+        "noiDungCauHoi": "You ought to take it easy, _______?",
+        "luaChon_1": "should you",
+        "luaChon_2": "shouldn’t you",
+        "luaChon_3": "oughtn’t you",
+        "luaChon_4": "ought you",
+        "dapAnDung": "shouldn’t you"
+      },
+      {
+        "noiDungCauHoi": "I am not sociable, ________?",
+        "luaChon_1": "am I",
+        "luaChon_2": "are I",
+        "luaChon_3": "aren’t I",
+        "luaChon_4": "am not I",
+        "dapAnDung": "am I"
+      },
+      {
+        "noiDungCauHoi": "Let’s go to the hospital and visit him, _______?",
+        "luaChon_1": "shall we",
+        "luaChon_2": "will you",
+        "luaChon_3": "won’t you",
+        "luaChon_4": "do we",
+        "dapAnDung": "shall we"
+      },
+      {
+        "noiDungCauHoi": "Let us play video games for 2 hours, _______?",
+        "luaChon_1": "will you",
+        "luaChon_2": "won’t you",
+        "luaChon_3": "do we",
+        "luaChon_4": "do us",
+        "dapAnDung": "will you"
+      },
+      {
+        "noiDungCauHoi": "Let me carry the suitcases for you, ______?",
+        "luaChon_1": "do I",
+        "luaChon_2": "don’t I",
+        "luaChon_3": "may I",
+        "luaChon_4": "should I",
+        "dapAnDung": "may I"
+      },
+      {
+        "noiDungCauHoi": "Everyone has the permission to enter the house, ______?",
+        "luaChon_1": "do they",
+        "luaChon_2": "don’t they",
+        "luaChon_3": "is it",
+        "luaChon_4": "isn’t it",
+        "dapAnDung": "don’t they"
+      },
+      {
+        "noiDungCauHoi": "Anybody hates him for the first time they meet him, ______?",
+        "luaChon_1": "do they",
+        "luaChon_2": "don’t they",
+        "luaChon_3": "does he",
+        "luaChon_4": "doesn’t he",
+        "dapAnDung": "don’t they"
       }
     ]
   },
   "Đề 8": {
     "cauHoi": [
       {
-        "noiDungCauHoi": "Hoa usually_____charge of doing the washing-up in her family.",
-        "luaChon_1": "takes",
-        "luaChon_2": "is taking",
-        "luaChon_3": "take",
-        "luaChon_4": "will take",
-        "dapAnDung": "will take"
+        "noiDungCauHoi": "Everything is going on well, _______?",
+        "luaChon_1": "isn’t it",
+        "luaChon_2": "is it",
+        "luaChon_3": "is everything",
+        "luaChon_4": "isn’t everything",
+        "dapAnDung": "isn’t it"
       },
       {
-        "noiDungCauHoi": "First thing in the morning, I_____a cup of milk tea.",
-        "luaChon_1": "has",
-        "luaChon_2": "am having",
-        "luaChon_3": "have",
-        "luaChon_4": "will have",
-        "dapAnDung": "will have"
+        "noiDungCauHoi": "No one accepts that negotiation, ______?",
+        "luaChon_1": "are they",
+        "luaChon_2": "do they",
+        "luaChon_3": "don’t they",
+        "luaChon_4": "aren’t they",
+        "dapAnDung": "do they"
+      },
+      {
+        "noiDungCauHoi": "My mother never lets me come home late in the evening, _______?",
+        "luaChon_1": "does she",
+        "luaChon_2": "doesn’t she",
+        "luaChon_3": "is she",
+        "luaChon_4": "isn’t she",
+        "dapAnDung": "does she"
+      },
+      {
+        "noiDungCauHoi": "She’d better leave a message, _______?",
+        "luaChon_1": "didn’t she",
+        "luaChon_2": "hadn’t she",
+        "luaChon_3": "had she",
+        "luaChon_4": "did she",
+        "dapAnDung": "hadn’t she"
+      },
+      {
+        "noiDungCauHoi": "She’d rather take a rest after a hard-working day, ______?",
+        "luaChon_1": "would she",
+        "luaChon_2": "does she",
+        "luaChon_3": "doesn’t she",
+        "luaChon_4": "wouldn’t she",
+        "dapAnDung": "wouldn’t she"
+      },
+      {
+        "noiDungCauHoi": "It seems that he is the best teacher at high school, ______?",
+        "luaChon_1": "is he",
+        "luaChon_2": "isn’t he",
+        "luaChon_3": "does it",
+        "luaChon_4": "doesn’t it",
+        "dapAnDung": "isn’t he"
+      },
+      {
+        "noiDungCauHoi": "It seemed that you had failed the examination, _______?",
+        "luaChon_1": "had you",
+        "luaChon_2": "did it",
+        "luaChon_3": "didn’t it",
+        "luaChon_4": "hadn’t you",
+        "dapAnDung": "hadn’t you"
+      },
+      {
+        "noiDungCauHoi": "What he has said hurts your feeling a lot,_______ ?",
+        "luaChon_1": "doesn’t it",
+        "luaChon_2": "is it",
+        "luaChon_3": "has he",
+        "luaChon_4": "hasn’t he",
+        "dapAnDung": "doesn’t it"
+      },
+      {
+        "noiDungCauHoi": "Why he betrayed her is still a secret, _______?",
+        "luaChon_1": "is it",
+        "luaChon_2": "does it",
+        "luaChon_3": "doesn’t it",
+        "luaChon_4": "isn’t it",
+        "dapAnDung": "isn’t it"
+      },
+      {
+        "noiDungCauHoi": "That the teacher gave him a present encourages him a lot, _______?",
+        "luaChon_1": "doesn’t it",
+        "luaChon_2": "didn’t it",
+        "luaChon_3": "did he",
+        "luaChon_4": "didn’t he",
+        "dapAnDung": "doesn’t it"
+      },
+      {
+        "noiDungCauHoi": "She seldom goes to the supermarket near her house, ________?",
+        "luaChon_1": "does she",
+        "luaChon_2": "doesn’t she",
+        "luaChon_3": "is it",
+        "luaChon_4": "isn’t it",
+        "dapAnDung": "does she"
+      },
+      {
+        "noiDungCauHoi": "Turn on the fan, _______?",
+        "luaChon_1": "shall we",
+        "luaChon_2": "will you",
+        "luaChon_3": "may I",
+        "luaChon_4": "won’t you",
+        "dapAnDung": "will you"
+      },
+      {
+        "noiDungCauHoi": "Don’t make noise too much in the class, _________?",
+        "luaChon_1": "shall we",
+        "luaChon_2": "will you",
+        "luaChon_3": "may I",
+        "luaChon_4": "won’t you",
+        "dapAnDung": "will you"
+      },
+      {
+        "noiDungCauHoi": "Take off the shoes before coming the church, ________?",
+        "luaChon_1": "shall we",
+        "luaChon_2": "will you",
+        "luaChon_3": "may I",
+        "luaChon_4": "won’t you",
+        "dapAnDung": "will you"
+      },
+      {
+        "noiDungCauHoi": "Don’t eat sweet stuffs before going to bed, _________?",
+        "luaChon_1": "shall we",
+        "luaChon_2": "will you",
+        "luaChon_3": "may I",
+        "luaChon_4": "won’t you",
+        "dapAnDung": "will you"
+      },
+      {
+        "noiDungCauHoi": "Turn off the light after leaving the room, ________?",
+        "luaChon_1": "shall we",
+        "luaChon_2": "will you",
+        "luaChon_3": "may I",
+        "luaChon_4": "won’t you",
+        "dapAnDung": "will you"
+      },
+      {
+        "noiDungCauHoi": "I am a bad man, ______________?",
+        "luaChon_1": "are not I",
+        "luaChon_2": "am not I",
+        "luaChon_3": "aren’t I",
+        "luaChon_4": "are I",
+        "dapAnDung": "aren’t I"
+      },
+      {
+        "noiDungCauHoi": "When one is happy, she can easily accept any requests, _______________?",
+        "luaChon_1": "does one",
+        "luaChon_2": "doesn’t one",
+        "luaChon_3": "can’t she",
+        "luaChon_4": "can she",
+        "dapAnDung": "can’t she"
+      },
+      {
+        "noiDungCauHoi": "When one is depressed, she doesn’t want to do anything but sleep, ________?",
+        "luaChon_1": "do you ",
+        "luaChon_2": "don’t you ",
+        "luaChon_3": "does she",
+        "luaChon_4": "doesn’t she",
+        "dapAnDung": "does she"
       }
     ]
   },
   "Đề 9": {
     "cauHoi": [
       {
-        "noiDungCauHoi": "Our friends_____for the fashion show now.",
-        "luaChon_1": "is preparing",
-        "luaChon_2": "are preparing",
-        "luaChon_3": "prepares",
-        "luaChon_4": "prepare",
-        "dapAnDung": "prepare"
+        "noiDungCauHoi": "Let me take care of you for the rest of your life, ___________?",
+        "luaChon_1": "will you",
+        "luaChon_2": "may I",
+        "luaChon_3": "won’t you",
+        "luaChon_4": "don’t I",
+        "dapAnDung": "may I"
       },
       {
-        "noiDungCauHoi": "Ms. Kim_____very well when she’s under pressure.",
-        "luaChon_1": "not work",
-        "luaChon_2": "don’t work",
-        "luaChon_3": "isn’t working",
-        "luaChon_4": "doesn’t work",
-        "dapAnDung": "doesn’t work"
-      }
-    ]
-  },
-  "Đề 10": {
-    "cauHoi": [
+        "noiDungCauHoi": "You must go to the doctor because your heath is getting worse, _______?",
+        "luaChon_1": "needn’t you",
+        "luaChon_2": "need you",
+        "luaChon_3": "do you",
+        "luaChon_4": "don’t you",
+        "dapAnDung": "needn’t you"
+      },
       {
-        "noiDungCauHoi": "David_____his hands. He just_____the TV set.",
-        "luaChon_1": "washes/has just repaired",
-        "luaChon_2": "is washing/has just been repairing",
-        "luaChon_3": "is washing/ has just repaired",
-        "luaChon_4": "has washed/ has just repaired",
-        "dapAnDung": "has washed/ has just repaired"
+        "noiDungCauHoi": "You mustn’t smoke at public places as hospital, ______?",
+        "luaChon_1": "must you",
+        "luaChon_2": "need you",
+        "luaChon_3": "needn’t you",
+        "luaChon_4": "mustn’t you",
+        "dapAnDung": "must you"
+      },
+      {
+        "noiDungCauHoi": "Your mother must have prepared this meal for me, _______?",
+        "luaChon_1": "hasn’t she",
+        "luaChon_2": "hasn’t it",
+        "luaChon_3": "has she",
+        "luaChon_4": "has it",
+        "dapAnDung": "hasn’t she"
+      },
+      {
+        "noiDungCauHoi": "He must be an obedient child, ________?",
+        "luaChon_1": "isn’t he",
+        "luaChon_2": "is he",
+        "luaChon_3": "is it",
+        "luaChon_4": "isn’t it",
+        "dapAnDung": "isn’t he"
+      },
+      {
+        "noiDungCauHoi": "How beautiful the queen is, ________?",
+        "luaChon_1": "isn’t she",
+        "luaChon_2": "is she",
+        "luaChon_3": "is it",
+        "luaChon_4": "isn’t it",
+        "dapAnDung": "isn’t she"
+      },
+      {
+        "noiDungCauHoi": "What a lovely toy your child has, _______?",
+        "luaChon_1": "isn’t it",
+        "luaChon_2": "is it",
+        "luaChon_3": "does he",
+        "luaChon_4": "doesn’t he",
+        "dapAnDung": "isn’t it"
+      },
+      {
+        "noiDungCauHoi": "I think he is an excellent student in this class, ______?",
+        "luaChon_1": "is he",
+        "luaChon_2": "isn’t he",
+        "luaChon_3": "does he",
+        "luaChon_4": "doesn’t he",
+        "dapAnDung": "isn’t he"
+      },
+      {
+        "noiDungCauHoi": "I believe this story is not true, ______?",
+        "luaChon_1": "isn’t it",
+        "luaChon_2": "is it",
+        "luaChon_3": "do I",
+        "luaChon_4": "don’t I",
+        "dapAnDung": "is it"
+      },
+      {
+        "noiDungCauHoi": "She thought he hadn’t come up to her parents’ expectation, _____?",
+        "luaChon_1": "didn’t she",
+        "luaChon_2": "did she",
+        "luaChon_3": "hadn’t he",
+        "luaChon_4": "had he",
+        "dapAnDung": "didn’t she"
+      },
+      {
+        "noiDungCauHoi": "There are some changes in our timetable, ____________?",
+        "luaChon_1": "are they",
+        "luaChon_2": "aren’t they",
+        "luaChon_3": "are there",
+        "luaChon_4": "aren’t there",
+        "dapAnDung": "aren’t there"
+      },
+      {
+        "noiDungCauHoi": "To my shame, I never wrote and thanked you for your kindness, ___________?",
+        "luaChon_1": "did I",
+        "luaChon_2": "didn’t I",
+        "luaChon_3": "had I",
+        "luaChon_4": "hadn’t I",
+        "dapAnDung": "did I"
+      },
+      {
+        "noiDungCauHoi": "I ought to take this online course to improve my English, _____?",
+        "luaChon_1": "shouldn’t I",
+        "luaChon_2": "should I",
+        "luaChon_3": "may I",
+        "luaChon_4": "aren’t I",
+        "dapAnDung": "shouldn’t I"
+      },
+      {
+        "noiDungCauHoi": "He needs to do the homework before going out with his friends, ____?",
+        "luaChon_1": "doesn’t he",
+        "luaChon_2": "does he",
+        "luaChon_3": "needn’t he",
+        "luaChon_4": "need he",
+        "dapAnDung": "doesn’t he"
+      },
+      {
+        "noiDungCauHoi": "He need do it himself, ________?",
+        "luaChon_1": "needn’t he",
+        "luaChon_2": "need he",
+        "luaChon_3": "does he",
+        "luaChon_4": "doesn’t he",
+        "dapAnDung": "needn’t he"
+      },
+      {
+        "noiDungCauHoi": "She loves him very much, _________?",
+        "luaChon_1": "does he",
+        "luaChon_2": "doesn’t he",
+        "luaChon_3": "does she",
+        "luaChon_4": "doesn’t she",
+        "dapAnDung": "doesn’t she"
+      },
+      {
+        "noiDungCauHoi": "He doesn’t like me at all, ______?",
+        "luaChon_1": "does he",
+        "luaChon_2": "doesn’t he",
+        "luaChon_3": "is it",
+        "luaChon_4": "isn’t it",
+        "dapAnDung": "does he"
+      },
+      {
+        "noiDungCauHoi": "You have a happy family with a graceful girlfriend, ________?",
+        "luaChon_1": "do you",
+        "luaChon_2": "don’t you",
+        "luaChon_3": "have you",
+        "luaChon_4": "haven’t you",
+        "dapAnDung": "don’t you"
+      },
+      {
+        "noiDungCauHoi": "Let me do you a favor, ______?",
+        "luaChon_1": "may I",
+        "luaChon_2": "will you",
+        "luaChon_3": "won’t you",
+        "luaChon_4": "shall we",
+        "dapAnDung": "may I"
+      },
+      {
+        "noiDungCauHoi": "You’re a big fan of “Ve Nha Di Con” film, ______?",
+        "luaChon_1": "are you",
+        "luaChon_2": "aren’t you",
+        "luaChon_3": "is it",
+        "luaChon_4": "isn’t it",
+        "dapAnDung": "aren’t you"
+      },
+      {
+        "noiDungCauHoi": "Your parents don’t allow you to go out with me, ______________?",
+        "luaChon_1": "do they",
+        "luaChon_2": "don’t they",
+        "luaChon_3": "are you",
+        "luaChon_4": "aren’t you",
+        "dapAnDung": "do they"
       }
     ]
   }
